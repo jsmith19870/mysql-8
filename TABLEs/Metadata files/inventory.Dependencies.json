@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "",
+    "name": "film",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "store",
+    "type": "TABLE"
+  }
+]

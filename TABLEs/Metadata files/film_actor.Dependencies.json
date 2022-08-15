@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "",
+    "name": "actor",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "film",
+    "type": "TABLE"
+  }
+]

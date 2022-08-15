@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "",
+    "name": "customer",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "inventory",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "staff",
+    "type": "TABLE"
+  }
+]
